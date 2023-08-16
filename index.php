@@ -9,7 +9,7 @@
 
   for ($x = 0; $x <= 20; $x++) {
     $line = rand(1,178000);
-    echo "<a href=http://www.bing.com/search?q='$words[$line]'>$x $words[$line]</a><br>";
+    echo "<a href='http://www.bing.com/search?q=$words[$line]'>$x $words[$line]</a><br>";
   }
   # <a href='http://www.bing.com/search?q=business '>10 business </a>
 
