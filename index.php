@@ -1,9 +1,9 @@
 <?php 
 
 echo "Hello World<br>"; 
-echo "this is a simple test<br>"
+echo "this is a simple test<br>";
 
-echo(rand() . "<br>");
+echo (rand() . "<br>");
 
 /* to test
   
