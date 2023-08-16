@@ -3,7 +3,7 @@
 echo "Hello World<br>"; 
 echo "this is a simple test<br>";
 
-echo (rand() . "<br>");
+echo (rand(1,178000) . "<br>");
 
 /* to test
   
