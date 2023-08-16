@@ -2,7 +2,6 @@
 
 echo "Hello World<br>"; 
 echo "this is a simple test<br>"
-echo(rand(10,100));
 
 /* to test
   
