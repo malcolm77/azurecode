@@ -7,7 +7,7 @@
 
   $words = explode("\n", $wordlist);
 
-  for ($x = 0; $x <= 20; $x++) {
+  for ($x = 1; $x <= 20; $x++) {
     $line = rand(1,178000);
     echo "<a href='http://www.bing.com/search?q=$words[$line]'>$x $words[$line]</a><br>";
   }
